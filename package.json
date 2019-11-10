@@ -1,0 +1,9 @@
+{
+  "name": "korttipeli",
+  "version": "0.0.0",
+  "description": "Korttipeli",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
